@@ -1,0 +1,8 @@
+# Artifacts
+/**/*.class
+/**/*.ctxt
+/doc/
+
+# Editors
+/**/*.pkg
+/**/*.bluej
